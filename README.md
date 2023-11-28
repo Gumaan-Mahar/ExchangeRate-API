@@ -1,16 +1,16 @@
-# exchange_rate_api
+# ExchangeRate-API
 
-A new Flutter project.
+Welcome to ExchangeRate-API, a sophisticated currency conversion tool powered by an advanced API. This project empowers users to effortlessly convert currencies with precision and efficiency.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 1](https://github.com/Gumaan-Mahar/ExchangeRate-API/blob/main/WhatsApp%20Image%202023-11-28%20at%208.26.36%20PM.jpeg)
+![Screenshot 2](https://github.com/Gumaan-Mahar/ExchangeRate-API/blob/main/WhatsApp%20Image%202023-11-28%20at%208.26.37%20PM%20(1).jpeg)
+![Screenshot 3](https://github.com/Gumaan-Mahar/ExchangeRate-API/blob/main/WhatsApp%20Image%202023-11-28%20at%208.26.37%20PM%20(2).jpeg)
+![Screenshot 4](https://github.com/Gumaan-Mahar/ExchangeRate-API/blob/main/WhatsApp%20Image%202023-11-28%20at%208.26.37%20PM.jpeg)
+![Screenshot 5](https://github.com/Gumaan-Mahar/ExchangeRate-API/blob/main/WhatsApp%20Image%202023-11-28%20at%208.26.38%20PM%20(1).jpeg)
+![Screenshot 6](https://github.com/Gumaan-Mahar/ExchangeRate-API/blob/main/WhatsApp%20Image%202023-11-28%20at%208.26.38%20PM%20(2).jpeg)
+![Screenshot 7](https://github.com/Gumaan-Mahar/ExchangeRate-API/blob/main/WhatsApp%20Image%202023-11-28%20at%208.26.38%20PM.jpeg)
+![Screenshot 8](https://github.com/Gumaan-Mahar/ExchangeRate-API/blob/main/WhatsApp%20Image%202023-11-28%20at%208.26.39%20PM%20(1).jpeg)
+![Screenshot 9](https://github.com/Gumaan-Mahar/ExchangeRate-API/blob/main/WhatsApp%20Image%202023-11-28%20at%208.26.39%20PM.jpeg)
